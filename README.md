@@ -74,7 +74,8 @@ A Human Review step is integrated into the workflow so that selected actions are
 
 The workflow connects Telegram with an AI Agent and several Google services.
 
-A screenshot of the current workflow architecture will be added here.
+<img width="1820" height="876" alt="Screenshot from 2026-10-02 21-52-10" src="https://github.com/user-attachments/assets/9deac268-6e91-4ba0-b54b-a84feefab4b7" />
+
 
 ## 🎯 What I learned
 
